@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Adeyemi
 
-<!--
-**thecrownbefitsme/thecrownbefitsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast currently learning OSINT, penetration testing, and Python scripting.
 
-Here are some ideas to get you started:
+## 🔧 Projects I'm Working On
+- Phone number OSINT tool
+- Subdomain scanner
+- Learning how to build recon tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills I'm Growing
+- Python automation
+- Web application security
+- Red/Blue Team techniques
+
+📫 You can find me on GitHub for my latest tools and learning progress.
